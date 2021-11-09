@@ -1,12 +1,14 @@
-# bm40-abnt2
+# BM40-ABNT2
 BM40 ABNT2-based QMK keymap
 
 This is a simple BM40 keymap that's optimized and made with the Brazilian ABNT2 layout in mind.
 
-It uses QMK and was based on the default keymap available when using QMK MSYS.
+It uses QMK and was based on the available default keymap.
 
-You can download the keymap.c file, edit it (or not) and build it yourself.
+You can download the keymap.c file, edit it (or not) and build it yourself. This is recommended.
 
-Alternatively, you might want to download the .hex file and flash it using QMK Toolbox.
+Alternatively, you might want to download the .hex file and flash it using QMK Toolbox. I highly advise against doing this, as you cannot customize the layout to your liking.
 
-Do note that I am NOT responsible for anything you do with these files. This is not a tutorial. Please read on how to use, build and flash with QMK. Here is a comprehensive guide: https://beta.docs.qmk.fm/
+Do note that I am NOT responsible for anything you do with these files. This is not a tutorial. Do not try to flash this on a board other than BM40 from KPRepublic. 
+
+Please read on how to use, build and flash with QMK. Here is a comprehensive guide: https://beta.docs.qmk.fm/
